@@ -1,1 +1,1 @@
-P.S: Ravenous and Jammming has their own separate repositories.
+P.S: Ravenous and Jammming have their own separate repositories.
